@@ -1,15 +1,17 @@
 # IMGUR-UP
 > Upload images anonymously to [IMGUR](https://imgur.com)
+
 ## Usage
-	```
+
+	```bash
 		$ npm i imgur-up --save
 
 		# or
 
 		$ yarn add imgur-up
 	```
-### API
-## `upload(filename, [options])`
+###  API
+####  `upload(filename, [options])`
 - `filename`
 	- Type: `String()`
 	- Descr: 'Path to file (ex. ./myImage.png)'
