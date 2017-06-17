@@ -3,13 +3,11 @@
 
 ## Usage
 
-	```bash
-		$ npm i imgur-up --save
-
-		# or
-
-		$ yarn add imgur-up
-	```
+```bash
+  $ npm i imgur-up --save 
+  #or
+  $ yarn add imgur-up
+```
 ###  API
 ####  `upload(filename, [options])`
 - `filename`
