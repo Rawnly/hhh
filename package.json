@@ -1,6 +1,6 @@
 {
   "name": "imgur-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "api.js",
   "license": "MIT",
   "dependencies": {
@@ -9,7 +9,7 @@
   "devDependencies": {
     "eslint": "^4.0.0"
   },
-	"scripts": {
-		"test": "eslint *.js"
-	}
+  "scripts": {
+    "test": "eslint *.js"
+  }
 }
