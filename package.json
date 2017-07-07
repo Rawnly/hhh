@@ -4,8 +4,7 @@
   "main": "api.js",
   "license": "MIT",
   "dependencies": {
-    "got": "^7.0.0",
-    "ora": "^1.3.0"
+    "got": "^7.0.0"
   },
   "devDependencies": {
     "eslint": "^4.0.0"
